@@ -62,17 +62,6 @@ MongoDB Express React Redux NodeJs are user in this project.
     - To run frontend type command `npm start` in `/client` folder.
 6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
  **And application will be up and running.**
-**Here are some images of application:**
-
-![new post](https://user-images.githubusercontent.com/72184791/114161309-89492f00-9945-11eb-888f-3ff263cfb909.JPG)
-
-![dark mode](https://user-images.githubusercontent.com/72184791/114161287-851d1180-9945-11eb-8a0e-1a4c56132de0.JPG)
-
-![search users](https://user-images.githubusercontent.com/72184791/114161296-86e6d500-9945-11eb-85cb-eb7c84d4abda.JPG)
-
-![posts menu](https://user-images.githubusercontent.com/72184791/114161315-89e1c580-9945-11eb-8f9f-4156d1184567.JPG)
-
-![explore page](https://user-images.githubusercontent.com/72184791/114161321-8a7a5c00-9945-11eb-8c67-bf42a8f30fcd.JPG)
 
 
 
